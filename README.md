@@ -1,5 +1,5 @@
 # PepperProject
-Web application interacting with Pepper Robot to recognize images (using keras and tensorflow)
+Web application interacting with Pepper Robot to recognize object in images (using Yolov3 implementation in keras and tensorflow)
 
 Installer Php, Sql et Apache via Wampserver (Xamp/Lamp en fonction de l'OS, attention à installer dans le répertoire C://wamp).
 Installer Anaconda 3 via le site officiel: rajouter à la variable d'environnement Home le chemin d'installation d'Anaconda pour pouvoir accéder à tous les services d'Anaconda directement dans l'invité de commande. Ouvrir un cmd et taper conda pour vérifier que la commande est reconnue.
