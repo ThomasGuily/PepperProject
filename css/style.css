@@ -1,0 +1,13 @@
+body,html {
+    background-color: rgb(204, 229, 255);
+    height: 100%;
+}
+
+#profile-img {
+    height:360px;
+	
+}
+.h-80 {
+    height: 80% !important;
+}
+ 
