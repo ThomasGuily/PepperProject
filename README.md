@@ -28,3 +28,5 @@ Télécharger le contenu du repository de l'adresse https://github.com/ThomasGui
 Changer l'adresse IP pour mettre celle de Pepper dans les fichiers .py du dossier /py27scripts.
 Changer le nom du PC dans les balises javascript au début des fichiers suivants : enter.html, choixPerso.php.
 Taper localhost/app/finalapp/PepperProject dans votre explorateur et vérifier que tout fonctionne correctement en parcourant l'application.
+
+N'oubliez pas non plus d'acheter le robot PEPPER (aldebaran robotics) pour la modique somme de 20000€!!!
