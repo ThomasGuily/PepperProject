@@ -28,7 +28,7 @@
 		</ul>
 		<ul class="navbar-nav ">
 		<li class="nav-item">
-		<button type="button" onclick="window.location.href='index.html'"class="btn   ">Return</button>
+		<button type="button" onclick="window.location.href='MultiSelect.php'"class="btn   ">Return</button>
 		</li>
 		<li class="nav-item">
 		<button type="button" onclick="self.close()" class="btn ">Close</button>

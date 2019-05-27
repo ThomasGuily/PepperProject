@@ -68,7 +68,7 @@ function disablebtn(){
 				<button  onclick="connect();" name="formsubmit" class="btn btn-lg btn-primary btn-block btn-signin" type="submit">Enter</button> <!--working??-->
 			</form>
 			<br><br><br><br><br>
-			<button type="button" id="playbtn" onclick="window.location.href='choice.html'" class="btn btn-lg btn-secondary btn-block btn-signin" disabled>Play</button>
+			<button type="button" id="playbtn" onclick="window.location.href='MultiSelect.php'" class="btn btn-lg btn-secondary btn-block btn-signin" disabled>Play</button>
         </div>
     </div>
 	<div class="col-md-3">
