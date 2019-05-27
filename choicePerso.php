@@ -49,9 +49,9 @@
       
 		</ul>
 		<ul class="navbar-nav ">
-		<li class="nav-item">
+		<!-- <li class="nav-item">
 		<button type="button" onclick="window.location.href='yourChoice.php'"class="btn   my-2 my-lg-0 ">Return</button>
-		</li>
+		</li> -->
 		<li class="nav-item">
 		<button type="button" onclick="self.close()" class="btn ">Close</button>
 		</li>

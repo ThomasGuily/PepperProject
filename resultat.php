@@ -43,12 +43,13 @@
 <div class="row align-items-center h-100">
 	
 
-    <div class="col-3 mx-auto">
-	
+    <div class="col-8 mx-auto">
+	  <p> Voici un example de photo prise par le robot et traitée avec succès ! </p>
 	
 	
 	<div class="col-md-3">
-	<img src="kerasyolov3/camerapepper.png" class="img-circle" width="480px" height="280px" >
+	<img src="image/camerapepper.png" class="img-circle" width="480px" height="360px" >
+	
 	</div>
 
   </div>

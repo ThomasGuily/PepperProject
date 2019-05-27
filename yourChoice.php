@@ -26,7 +26,7 @@
 		</ul>
 		<ul class="navbar-nav ">
 		<li class="nav-item">
-		<button type="button" onclick="window.location.href='MultiSelect.php'"class="btn   my-2 my-lg-0 ">Return</button>
+		<button type="button" onclick="window.location.href='MultiSelect.php'"class="btn   my-2 my-lg-0 ">Return</button> <!-- normalement passe par page.php pour faire parler le robot-->
 		</li>
 		<li class="nav-item">
 		<button type="button" onclick="self.close()" class="btn ">Close</button>
@@ -50,7 +50,7 @@ try{
 	$pdo = new PDO($dsn, 'root' , '');
 }
 catch(PDOException $exception){
-	exit('Erreur de connexion à la base de données');
+	exit('Erreur de connexion ï¿½ la base de donnï¿½es');
 }
 ?>
 
