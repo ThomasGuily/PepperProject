@@ -86,10 +86,10 @@ function disablebtn(){
 if(isset($_POST['formsubmit']))
 {
 	$name = $_POST['OK'];
-	echo "je suis server";
+	//echo "je suis server";
 	shell_exec("C:\xampp\htdocs\PepperProject $name"); //to change 
-	echo "le script est executée";
-	echo "valeur envoyée " .$name;
+	//echo "le script est executée";
+	//echo "valeur envoyée " .$name;
 	echo '<script type="text/javascript">',
      'disablebtn();',
      '</script>';	
